@@ -1,0 +1,3 @@
+le agruegue tiulos y tambien algunas descripciones en cada secciones, se agrega pagina Error 404
+se agrega a git hub
+https://github.com/braianmoregui2015/github_proyecto.git
