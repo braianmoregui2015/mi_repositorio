@@ -1,0 +1,6 @@
+
+# HTID:17261891: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17261891:
+ErrorDocument404 https://miproyectomoregui2.000webhostapp.com
+
